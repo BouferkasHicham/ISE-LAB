@@ -1,0 +1,23 @@
+# Core LLM Framework
+langchain>=0.1.10
+langchain-google-genai>=2.0.0
+langgraph>=0.2.0
+
+# Google Generative AI (new SDK)
+google-genai>=1.0.0
+
+# Code Quality Tools
+pylint>=3.0.3
+pytest>=7.4.4
+
+# Environment & Configuration
+python-dotenv>=1.0.1
+
+# Data Processing
+pandas>=2.2.0
+
+# CLI & Output
+colorama>=0.4.6
+
+# Type Hints (for Python 3.10 compatibility)
+typing-extensions>=4.9.0
